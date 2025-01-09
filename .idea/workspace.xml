@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae016373-55a7-488c-9b8d-83b3d1ebd7a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ae016373-55a7-488c-9b8d-83b3d1ebd7a6" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/Alien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/mrityunjay/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/Alien.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/Alien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/mrityunjay/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -73,6 +80,15 @@
       <option name="presentableId" value="Default" />
       <updated>1736328478866</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <option name="closed" value="true" />
+      <created>1736417213165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736417213165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +116,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>

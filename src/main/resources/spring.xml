@@ -4,8 +4,18 @@
        xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="alien1" class = "org.example.mrityunjay.Alien"> </bean>
-    <bean id="alien2" class = "org.example.mrityunjay.Alien"> </bean>
+<!--    <bean id="alien1" class = "org.example.mrityunjay.Alien" scope = "prototype"> </bean>-->
+    <bean id="alien1" class = "org.example.mrityunjay.Alien">
+<!--        <property name="age" value="51">-->
+<!--        </property>-->
+<!--        <property name="obj" ref="lap">-->
+<!--        </property>-->
+        <constructor-arg name="age" value="434">
+        </constructor-arg>
+        <constructor-arg name='lap' ref="lap">
+        </constructor-arg>
+    </bean>
+<!--    <bean id="alien2" class = "org.example.mrityunjay.Alien"> </bean>-->
     <bean id="lap" class = "org.example.mrityunjay.Laptop"> </bean>
 
 </beans>
